@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\turol\documents\visual studio 2017\projects\opengl\opengl\main.cpp(77): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  OpenGL.vcxproj -> C:\Users\turol\documents\visual studio 2017\Projects\OpenGL\Debug\OpenGL.exe
+  OpenGL.vcxproj -> C:\Users\turol\documents\visual studio 2017\Projects\OpenGL\Debug\OpenGL.pdb (Partial PDB)
